@@ -1,5 +1,5 @@
 
-![Machine Learning Banner](https://via.placeholder.com/800x200?text=Machine+Learning)
+![Machine Learning Banner](https://datascientest.com/en/files/2021/01/Machine-learning-def-.png)
 
 # Machine Learning
 
